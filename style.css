@@ -1,1 +1,104 @@
+.desktop {
+  background-color: #a85555;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 42px;
+  left: -55px;
+  width: 680px;
+  font-family: "Castoro Titling-Regular", Helvetica;
+  font-weight: 400;
+  color: #dfd590;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle {
+  top: 147px;
+  left: 67px;
+  width: 943px;
+  height: 778px;
+  border-radius: 50px;
+  position: absolute;
+  background-color: #564646;
+}
+
+.desktop .MAKE-UP-REGULAR {
+  position: absolute;
+  top: 164px;
+  left: 94px;
+  width: 916px;
+  font-family: "Castoro Titling-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .g-removebg-preview {
+  position: absolute;
+  top: 304px;
+  left: 978px;
+  width: 462px;
+  height: 658px;
+  aspect-ratio: 0.82;
+  object-fit: cover;
+}
+
+.desktop .div {
+  top: 147px;
+  left: 1104px;
+  width: 300px;
+  height: 93px;
+  border-radius: 50px;
+  position: absolute;
+  background-color: #564646;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 169px;
+  left: 1127px;
+  width: 316px;
+  font-family: "Castoro Titling-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle-2 {
+  top: 945px;
+  left: 1px;
+  width: 1442px;
+  height: 84px;
+  position: absolute;
+  background-color: #564646;
+}
+
+.image {
+  width: 488px;
+  height: 350px;
+}
+
+.image .screenshot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 488px;
+  height: 350px;
+  aspect-ratio: 1.39;
+  object-fit: cover;
+}
+
 
